@@ -1,5 +1,6 @@
 # Visual Basic Application (VBA) Stock Challenge
 The purpose of this project is to use Excel VBA scripting to analyze real stock market data.
+![](https://github.com/beau-nguyen/VBA_Wall_Street_Challenge/blob/master/Images/stockmarket.jpg)
 ## Methods Used
 *	Data Visualization	
 *	Cleaning Data
